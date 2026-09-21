@@ -4,6 +4,12 @@ Personal portfolio website of **Jesus Carlos G. Lazaro**, a Computer Science stu
 
 The portfolio showcases my experience, technical skills, academic projects, machine learning applications, and software development work.
 
+## Live Portfolio
+
+View the deployed portfolio here:
+
+https://jc-lazaro-portfolio.onrender.com/
+
 ## Built With
 
 - React
