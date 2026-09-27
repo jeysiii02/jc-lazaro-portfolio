@@ -67,6 +67,14 @@ function App() {
       github:
         "https://github.com/jeysiii02/DS_3_StockPriceDataVisualization_byte",
     },
+    {
+      title: "Starter: Internship & Job Tracker",
+      category: "Full-Stack Web App",
+      description:
+        "A web app for college students to organize internships, entry-level jobs, and part-time opportunities. Track applications and deadlines, manage saved jobs, plan interviews, and collaborate in shared workspaces.",
+      tech: ["React", "Vite", "Firebase", "Cloud Firestore"],
+      live: "https://starter-internship-job-tracker.onrender.com/",
+    },
   ];
 
   return (
