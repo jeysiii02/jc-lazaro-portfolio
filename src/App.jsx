@@ -253,7 +253,7 @@ function App() {
               </div>
 
               <div>
-                <strong>3×</strong>
+                <strong>4×</strong>
                 <span>Dean's List</span>
               </div>
             </div>
