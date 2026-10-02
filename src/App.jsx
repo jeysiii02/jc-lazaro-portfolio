@@ -289,7 +289,7 @@ function App() {
               </article>
 
               <article className="timeline-item">
-                <div className="timeline-date">SEP 2026 — PRESENT</div>
+                <div className="timeline-date">SEP 2026 — OCT 2026</div>
 
                 <div className="timeline-content">
                   <p className="item-type">DATA SCIENCE INTERNSHIP</p>
